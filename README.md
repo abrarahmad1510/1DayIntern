@@ -35,4 +35,4 @@ export default {
 - Dev Patel
 - Abrar Ahmad
 
-**Thanks for reading, this project is MIT Licensed.
+**Thanks for reading, this project is MIT Licensed**.
